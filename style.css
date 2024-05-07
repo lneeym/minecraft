@@ -12,7 +12,7 @@ video {
   width: 100% !important;
   height: 100% !important;
   /* change contain to cover for full screen */
-  object-fit: contain;
+  object-fit: cover;
 }
 
 video {
