@@ -18,7 +18,7 @@ let sketch = function (p) {
   p.preload = function() {
     pigImg = p.loadImage("face.jpeg")
     ghostImg = p.loadImage("face2.jpeg")
-    font = p.loadFont('Nabla-Regular.ttf');
+    font = p.loadFont('Honk-Regular.ttf');
   }
 
   p.setup = function () {
